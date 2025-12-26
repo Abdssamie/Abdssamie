@@ -43,10 +43,8 @@
 
 ## ⚡ GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdssamie&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Abdssamie's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdssamie&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</div>
+![Abdssamie's GitHub Stats](https://github-readme-stats-fawn-ten-27.vercel.app/api?username=abdssamie&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats-fawn-ten-27.vercel.app/api/top-langs/?username=abdssamie&layout=compact&theme=transparent&hide_border=true)
 
 ## 📝 Latest Blog Posts
 
