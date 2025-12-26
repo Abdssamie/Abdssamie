@@ -41,16 +41,17 @@
 
 <br />
 
-## 🚀 About Me
+## ⚡ GitHub Stats
 
-I am a passionate software engineer focused on delivering high-quality full-stack applications. My goal is to leverage cutting-edge tools to create efficient, scalable, and user-centric solutions.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdssamie&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Abdssamie's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdssamie&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</div>
 
-### 🛠️ Tech Stack & Tools
+## 📝 Latest Blog Posts
 
-*   **Languages**: Python, TypeScript, JavaScript
-*   **Frontend**: Next.js, React
-*   **Backend**: FastAPI, Node.js
-*   **Productivity & Organization**: Linear, Notion
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Let's Connect
 
