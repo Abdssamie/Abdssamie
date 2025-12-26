@@ -49,6 +49,9 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [React 19 Hooks Explained](https://nextjs-portfolio-blog-one.vercel.app/blog/react-19-hooks)
+- [Tailwind CSS v4 is Here](https://nextjs-portfolio-blog-one.vercel.app/blog/tailwind-v4-is-here)
+- [Mastering Server Actions in Next.js](https://nextjs-portfolio-blog-one.vercel.app/blog/mastering-server-actions)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Let's Connect
