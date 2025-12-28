@@ -52,9 +52,10 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [React 19 Hooks Explained](https://nextjs-portfolio-blog-one.vercel.app/blog/react-19-hooks)
-- [Tailwind CSS v4 is Here](https://nextjs-portfolio-blog-one.vercel.app/blog/tailwind-v4-is-here)
-- [Mastering Server Actions in Next.js](https://nextjs-portfolio-blog-one.vercel.app/blog/mastering-server-actions)
+- [Why I Switched from Prisma to Drizzle](https://nextjs-portfolio-blog-one.vercel.app/blog/prisma-vs-drizzle)
+- [Overcoming Shiny Object Syndrome: My Toolkit for Focus](https://nextjs-portfolio-blog-one.vercel.app/blog/productivity-focus)
+- [Using React Portals for Drag &amp; Drop UI](https://nextjs-portfolio-blog-one.vercel.app/blog/react-portals-video-editor)
+- [Why I Committed to the T3 Stack + FastAPI](https://nextjs-portfolio-blog-one.vercel.app/blog/tech-stack-commitment)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Let's Connect
