@@ -52,6 +52,7 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning Go: My Weekend Deep Dive](https://nextjs-portfolio-blog-one.vercel.app/blog/learning-go)
 - [Why I Switched from Prisma to Drizzle](https://nextjs-portfolio-blog-one.vercel.app/blog/prisma-vs-drizzle)
 - [Overcoming Shiny Object Syndrome: My Toolkit for Focus](https://nextjs-portfolio-blog-one.vercel.app/blog/productivity-focus)
 - [Using React Portals for Drag &amp; Drop UI](https://nextjs-portfolio-blog-one.vercel.app/blog/react-portals-video-editor)
