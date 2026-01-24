@@ -58,11 +58,11 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I Moved to LazyVim &lpar;And Why You Should Too&rpar;](https://nextjs-portfolio-blog-one.vercel.app/blog/moving-to-neovim)
+- [Building Reliable Software Fast with OpenSpec and Agentic Project Management](https://nextjs-portfolio-blog-one.vercel.app/blog/openspec-and-agentic-pm)
 - [Learning Go: My Weekend Deep Dive](https://nextjs-portfolio-blog-one.vercel.app/blog/learning-go)
 - [Why I Switched from Prisma to Drizzle](https://nextjs-portfolio-blog-one.vercel.app/blog/prisma-vs-drizzle)
 - [Overcoming Shiny Object Syndrome: My Toolkit for Focus](https://nextjs-portfolio-blog-one.vercel.app/blog/productivity-focus)
-- [Using React Portals for Drag &amp; Drop UI](https://nextjs-portfolio-blog-one.vercel.app/blog/react-portals-video-editor)
-- [Why I Committed to the T3 Stack + FastAPI](https://nextjs-portfolio-blog-one.vercel.app/blog/tech-stack-commitment)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Let's Connect
