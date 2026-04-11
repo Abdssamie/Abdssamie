@@ -11,18 +11,6 @@
   </p>
 
   <p align="center">
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-    </a>
-    <a href="https://dotnet.microsoft.com/">
-      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-    </a>
-    <a href="https://dotnet.microsoft.com/apps/aspnet">
-      <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-    </a>
-    <a href="https://www.python.org/">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    </a>
     <a href="https://react.dev/">
       <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React 19" />
     </a>
@@ -38,16 +26,17 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     </a>
-     <br />
-    <a href="https://linear.app/">
-      <img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white" alt="Linear" />
+     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
     </a>
-    <a href="https://www.notion.so/">
-      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+    <a href="https://dotnet.microsoft.com/">
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+    </a>
+    <a href="https://dotnet.microsoft.com/apps/aspnet">
+      <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
     </a>
   </p>
 </div>
-
 <br />
 
 ## ⚡ GitHub Stats
