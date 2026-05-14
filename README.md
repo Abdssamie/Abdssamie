@@ -43,19 +43,3 @@
 
 ![Abdssamie's GitHub Stats](https://github-readme-stats-fawn-ten-27.vercel.app/api?username=abdssamie&show_icons=true&theme=transparent&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats-fawn-ten-27.vercel.app/api/top-langs/?username=abdssamie&layout=compact&theme=transparent&hide_border=true)
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Why I Moved to LazyVim &lpar;And Why You Should Too&rpar;](https://nextjs-portfolio-blog-one.vercel.app/blog/moving-to-neovim)
-- [Building Reliable Software Fast with OpenSpec and Agentic Project Management](https://nextjs-portfolio-blog-one.vercel.app/blog/openspec-and-agentic-pm)
-- [Learning Go: My Weekend Deep Dive](https://nextjs-portfolio-blog-one.vercel.app/blog/learning-go)
-- [Why I Switched from Prisma to Drizzle](https://nextjs-portfolio-blog-one.vercel.app/blog/prisma-vs-drizzle)
-- [Overcoming Shiny Object Syndrome: My Toolkit for Focus](https://nextjs-portfolio-blog-one.vercel.app/blog/productivity-focus)
-<!-- BLOG-POST-LIST:END -->
-
-## 🤝 Let's Connect
-
-*   Email: [abdessamie.elmoubarki@gmail.com](mailto:abdessamie.elmoubarki@gmail.com)
-*   LinkedIn: [Profile](https://www.linkedin.com/in/abdessamaie-el-moubarki-406296310/)
-*   Portfolio: [nextjs-portfolio-blog-one.vercel.app](https://nextjs-portfolio-blog-one.vercel.app/)
